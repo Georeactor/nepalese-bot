@@ -1,0 +1,30 @@
+{
+  "name": "nepalese-bot",
+  "version": "1.0.0",
+  "description": "Review and import data from City Namer into OSM",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Georeactor/nepalese-bot.git"
+  },
+  "keywords": [
+    "Nepalese",
+    "OpenStreetMap",
+    "OSM",
+    "geodata",
+    "localization",
+    "translation"
+  ],
+  "author": "Nick Doiron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Georeactor/nepalese-bot/issues"
+  },
+  "homepage": "https://github.com/Georeactor/nepalese-bot#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}

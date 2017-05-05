@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 25px;
+}
+
+li {
+  margin-top: 30px;
+}
+
+li span {
+  display: block;
+  margin-left: 30px;
+}
